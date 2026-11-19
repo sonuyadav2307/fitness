@@ -43,7 +43,7 @@ function AppContent() {
         },
       ]}
     >
-      <Text style={styles.title}>life is awesome</Text>
+      <Text style={styles.title}>awesome</Text>
     </View>
   );
 }
